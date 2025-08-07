@@ -1,0 +1,4 @@
+length = int("50")
+width = 30.5
+area = length*width
+print("The arae of the rectangle is ", area)
